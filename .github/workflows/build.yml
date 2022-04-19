@@ -29,7 +29,9 @@ jobs:
           URL_PREFIX: mysite
 
       - name: Export Next.js app
-        run: npm run export
+        run: |
+          npm run export
+          touch out/.nojekyll
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
