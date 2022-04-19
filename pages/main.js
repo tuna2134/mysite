@@ -6,11 +6,11 @@ export default function Main() {
       <h1>tuna2134 offical site</h1>
     
       <div className={styles.grid}>
-        <h3>
-          RT bot
-        </h3>
+        <div>
+          <h3>RT Bot</h3>
 
-        <a href="https://rt-bot.com">website</a>
+          <a href="https://rt-bot.com">website</a>
+        </div>
       </div>
     </div>
   )
