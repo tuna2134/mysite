@@ -4,6 +4,9 @@ import Image from 'next/image'
 export default function Main() {
   return (
     <div className={styles.container}>
+      <head>
+        <title>tuna2134 offical site</title>
+      </head>
       <nav className="flex">
         <Image src="/CFF333B2-75CC-487A-87A5-F58F0276F610.jpeg" alt="icon" width={30} height={30}/>
         <h1 className="text-2xl">tuna2134 offical site</h1>
