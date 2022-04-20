@@ -45,6 +45,7 @@ export default function Main() {
         </div>
         <div className={styles.card}>
           <h3 className="text-lg">Golf</h3>
+          <Image src="/C3E1A827-69AB-4F6B-A84A-EC3D6735B42A.jpeg" alt="Golf image" width={60} height={60}/>
         </div>
       </div>
     </div>
