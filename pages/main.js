@@ -12,12 +12,12 @@ export default function Main() {
       <h2 className="text-xl text-justify">work</h2>
       <div className={styles.grid}>
         <div className={styles.card}>
-          <h3>RT Bot</h3>
+          <h3 className="text-lg">RT Bot</h3>
 
           <a href="https://rt-bot.com">website</a>
         </div>
         <div className={styles.card}>
-          <h3>google-custom-search</h3>
+          <h3 className="text-lg">google-custom-search</h3>
           <a href="https://github.com/tuna2134/google-custom-search">github</a>
         </div>
       </div>
