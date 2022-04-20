@@ -24,6 +24,10 @@ export default function Main() {
           <h3 className="text-lg">sanic-discord</h3>
           <a href="https://github.com/tuna2134/sanic-discord">github</a>
         </div>
+        <div className={styles.card}>
+          <h3 className="text-lg">sanic-guide translate</h3>
+          <a href="https://github.com/sanic-org/sanic-guide">github</a>
+        </div>
       </div>
       <h2 className="text-xl text-justify">skill</h2>
       <div className={styles.grid}>
