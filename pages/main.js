@@ -11,6 +11,10 @@ export default function Main() {
 
           <a href="https://rt-bot.com">website</a>
         </div>
+        <div>
+          <h3>google-custom-search</h3>
+          <a href="https://pypi.org/project/google-custom-search">pypi</a>
+        </div>
       </div>
     </div>
   )
