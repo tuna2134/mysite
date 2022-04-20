@@ -13,7 +13,6 @@ export default function Main() {
       <div className={styles.grid}>
         <div className={styles.card}>
           <h3 className="text-lg">RT Bot</h3>
-
           <a href="https://rt-bot.com">website</a>
         </div>
         <div className={styles.card}>
@@ -42,6 +41,7 @@ export default function Main() {
       <div className={styles.grid}>
         <div className={styles.card}>
           <h3 className="text-lg">Python</h3>
+          <Image src="/F3503098-1F3C-4CCF-8955-16E2338541D4.jpeg" alt="Python image"/>
         </div>
         <div className={styles.card}>
           <h3 className="text-lg">Golf</h3>
