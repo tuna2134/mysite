@@ -3,9 +3,9 @@ import styles from '../styles/Home.module.css'
 export default function Main() {
   return (
     <div className={styles.container}>
-      <h1 className="text-xl">tuna2134 offical site</h1>
+      <h1 className="text-2xl">tuna2134 offical site</h1>
       
-      <h2 className="text-lg">work</h2>
+      <h2 className="text-xl">work</h2>
       <div className={styles.grid}>
         <div className={styles.card}>
           <h3>RT Bot</h3>
