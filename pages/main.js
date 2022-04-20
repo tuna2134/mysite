@@ -20,6 +20,10 @@ export default function Main() {
           <h3 className="text-lg">google-custom-search</h3>
           <a href="https://github.com/tuna2134/google-custom-search">github</a>
         </div>
+        <div className={styles.card}>
+          <h3 className="text-lg">sanic-discord</h3>
+          <a href="https://github.com/tuna2134/sanic-discord">github</a>
+        </div>
       </div>
       <h2 className="text-xl text-justify">skill</h2>
       <div className={styles.grid}>
