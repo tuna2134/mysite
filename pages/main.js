@@ -26,6 +26,9 @@ export default function Main() {
         <div className={styles.card}>
           <h3 className="text-lg">Python</h3>
         </div>
+        <div className={styles.card}>
+          <h3 className="text-lg">Golf</h3>
+        </div>
       </div>
     </div>
   )
