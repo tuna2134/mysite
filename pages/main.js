@@ -9,7 +9,7 @@ export default function Main() {
         <h1 className="text-2xl">tuna2134 offical site</h1>
       </nav>
       
-      <h2 className="text-xl text-justify">work</h2>
+      <h2 className="text-xl text-center">work</h2>
       <div className={styles.grid}>
         <div className={styles.card}>
           <h3 className="text-lg">RT Bot</h3>
@@ -29,7 +29,7 @@ export default function Main() {
           <a href="https://github.com/sanic-org/sanic-guide">github</a>
         </div>
       </div>
-      <h2 className="text-xl text-justify">skill</h2>
+      <h2 className="text-xl text-center">skill</h2>
       <div className={styles.grid}>
         <div className={styles.card}>
           <h3 className="text-lg">Python</h3>
