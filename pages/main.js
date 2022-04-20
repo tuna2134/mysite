@@ -18,7 +18,10 @@ export default function Main() {
         </div>
         <div className={styles.card}>
           <h3 className="text-lg">google-custom-search</h3>
-          <a href="https://github.com/tuna2134/google-custom-search">github</a>
+          <div className="flex">
+            <Image src="/0C958386-25C4-43EF-9361-B99D10274D90.png" alt="github logo"/>
+            <a href="https://github.com/tuna2134/google-custom-search">github</a>
+          </div>
         </div>
         <div className={styles.card}>
           <h3 className="text-lg">sanic-discord</h3>
