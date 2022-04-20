@@ -21,6 +21,12 @@ export default function Main() {
           <a href="https://github.com/tuna2134/google-custom-search">github</a>
         </div>
       </div>
+      <h2 className="text-xl text-justify">skill</h2>
+      <div className={styles.grid}>
+        <div className={styles.card}>
+          <h3 className="text-lg">Python</h3>
+        </div>
+      </div>
     </div>
   )
 }
