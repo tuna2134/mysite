@@ -25,11 +25,17 @@ export default function Main() {
         </div>
         <div className={styles.card}>
           <h3 className="text-lg">sanic-discord</h3>
-          <a href="https://github.com/tuna2134/sanic-discord">github</a>
+          <div className="flex">
+            <Image src="/0C958386-25C4-43EF-9361-B99D10274D90.png" alt="github logo" width={20} height={20}/>
+            <a href="https://github.com/tuna2134/sanic-discord">github</a>
+          </div>
         </div>
         <div className={styles.card}>
           <h3 className="text-lg">sanic-guide translate</h3>
-          <a href="https://github.com/sanic-org/sanic-guide">github</a>
+          <div className="flex">
+            <Image src="/0C958386-25C4-43EF-9361-B99D10274D90.png" alt="github logo" width={20} height={20}/>
+            <a href="https://github.com/sanic-org/sanic-guide">github</a>
+          </div>
         </div>
       </div>
       <h2 className="text-xl text-center">skill</h2>
