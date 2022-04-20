@@ -9,7 +9,7 @@ export default function Main() {
         <h1 className="text-2xl">tuna2134 offical site</h1>
       </nav>
       
-      <h2 className="text-xl text-center">work</h2>
+      <h2 className="text-xl text-justify">work</h2>
       <div className={styles.grid}>
         <div className={styles.card}>
           <h3>RT Bot</h3>
