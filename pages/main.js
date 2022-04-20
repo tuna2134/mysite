@@ -1,21 +1,22 @@
 import styles from '../styles/Home.module.css'
 import Image from 'next/image'
 import Link from 'next/link'
+import Head from 'next/head'
 
 
 export default function Main() {
   return (
     <div className={styles.container}>
-      <head>
+      <Head>
         <title>tuna2134 offical site</title>
-      </head>
+      </Head>
       <nav className="flex">
         <Link href="/">
           <a>
             <Image src="/CFF333B2-75CC-487A-87A5-F58F0276F610.jpeg" alt="icon" width={30} height={30}/>
-            <h1 className="text-2xl">tuna2134 offical site</h1>
           </a>
         </Link>
+        <h1 className="text-2xl">tuna2134 offical site</h1>
       </nav>
       
       <h2 className="text-xl text-center">work</h2>
