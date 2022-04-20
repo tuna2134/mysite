@@ -19,7 +19,7 @@ export default function Main() {
         <div className={styles.card}>
           <h3 className="text-lg">google-custom-search</h3>
           <div className="flex">
-            <Image src="/0C958386-25C4-43EF-9361-B99D10274D90.png" alt="github logo"/>
+            <Image src="/0C958386-25C4-43EF-9361-B99D10274D90.png" alt="github logo" width={20} height={20}/>
             <a href="https://github.com/tuna2134/google-custom-search">github</a>
           </div>
         </div>
