@@ -1,9 +1,11 @@
 import styles from '../styles/Home.module.css'
+import Image from 'next/image'
 
 export default function Main() {
   return (
     <div className={styles.container}>
       <h1 className="text-2xl">tuna2134 offical site</h1>
+      <img src="/CFF333B2-75CC-487A-87A5-F58F0276F610.jpeg" alt="icon">
       
       <h2 className="text-xl">work</h2>
       <div className={styles.grid}>
