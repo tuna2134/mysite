@@ -13,9 +13,7 @@ export default function Main() {
         </div>
         <div className={styles.card}>
           <h3>google-custom-search</h3>
-          <a href="https://pypi.org/project/google-custom-search">pypi</a>
           <a href="https://github.com/tuna2134/google-custom-search">github</a>
-          <a href="https://google-custom-search.readthedocs.io">docs</a>
         </div>
       </div>
     </div>
