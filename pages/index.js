@@ -9,6 +9,7 @@ export default function Main() {
     <div className={styles.container}>
       <Head>
         <title>tuna2134 offical site</title>
+        <link rel="icon" sizes="16x16" href="/favicon.ico" />
       </Head>
       <nav className="flex">
         <Link href="/">
