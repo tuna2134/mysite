@@ -51,6 +51,14 @@ export default function Main() {
           </div>
         </div>
 
+        <div className={styles.card}>
+          <h3 className="text-lg">discord-ext-ipcs</h3>
+          <div className="flex">
+            <Image src="/0C958386-25C4-43EF-9361-B99D10274D90.png" alt="github logo" width={20} height={20}/>
+            <a href="https://github.com/sanic-org/discord-ext-ipcs">github</a>
+          </div>
+        </div>
+
       </div>
 
       <h2 className="text-xl text-center">skill</h2>
